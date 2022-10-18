@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager-extends/itheima-edu-info-manager-extends.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager-extends/itheima-edu-info-manager-extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager-interface/itheima-edu-info-manager-interface.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager-interface/itheima-edu-info-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymath/mymath.iml" filepath="$PROJECT_DIR$/mymath/mymath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myobject/myobject.iml" filepath="$PROJECT_DIR$/myobject/myobject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysystem/mysystem.iml" filepath="$PROJECT_DIR$/mysystem/mysystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage01-home-work/stage01-home-work.iml" filepath="$PROJECT_DIR$/stage01-home-work/stage01-home-work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-abstract/test-abstract.iml" filepath="$PROJECT_DIR$/test-abstract/test-abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-code-block/test-code-block.iml" filepath="$PROJECT_DIR$/test-code-block/test-code-block.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-extends/test-extends.iml" filepath="$PROJECT_DIR$/test-extends/test-extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-innerclass/test-innerclass.iml" filepath="$PROJECT_DIR$/test-innerclass/test-innerclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-interface/test-interface.iml" filepath="$PROJECT_DIR$/test-interface/test-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-lambda/test-lambda.iml" filepath="$PROJECT_DIR$/test-lambda/test-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-package/test-package.iml" filepath="$PROJECT_DIR$/test-package/test-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-permission/test-permission.iml" filepath="$PROJECT_DIR$/test-permission/test-permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-polymorphic/test-polymorphic.iml" filepath="$PROJECT_DIR$/test-polymorphic/test-polymorphic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-static/test-static.iml" filepath="$PROJECT_DIR$/test-static/test-static.iml" />
+    </modules>
+  </component>
+</project>
