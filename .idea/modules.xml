@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExceptionModule/ExceptionModule.iml" filepath="$PROJECT_DIR$/ExceptionModule/ExceptionModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyInteger/MyInteger.iml" filepath="$PROJECT_DIR$/MyInteger/MyInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager-extends/itheima-edu-info-manager-extends.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager-extends/itheima-edu-info-manager-extends.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager-interface/itheima-edu-info-manager-interface.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager-interface/itheima-edu-info-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myarrays/myarrays.iml" filepath="$PROJECT_DIR$/myarrays/myarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybigdecimal/mybigdecimal.iml" filepath="$PROJECT_DIR$/mybigdecimal/mybigdecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybinarysearch/mybinarysearch.iml" filepath="$PROJECT_DIR$/mybinarysearch/mybinarysearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybubble/mybubble.iml" filepath="$PROJECT_DIR$/mybubble/mybubble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycollection/mycollection.iml" filepath="$PROJECT_DIR$/mycollection/mycollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydate/mydate.iml" filepath="$PROJECT_DIR$/mydate/mydate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfactorial/myfactorial.iml" filepath="$PROJECT_DIR$/myfactorial/myfactorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/mymath/mymath.iml" filepath="$PROJECT_DIR$/mymath/mymath.iml" />
       <module fileurl="file://$PROJECT_DIR$/myobject/myobject.iml" filepath="$PROJECT_DIR$/myobject/myobject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myquicksort/myquicksort.iml" filepath="$PROJECT_DIR$/myquicksort/myquicksort.iml" />
       <module fileurl="file://$PROJECT_DIR$/mysystem/mysystem.iml" filepath="$PROJECT_DIR$/mysystem/mysystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/stage01-home-work/stage01-home-work.iml" filepath="$PROJECT_DIR$/stage01-home-work/stage01-home-work.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-abstract/test-abstract.iml" filepath="$PROJECT_DIR$/test-abstract/test-abstract.iml" />
