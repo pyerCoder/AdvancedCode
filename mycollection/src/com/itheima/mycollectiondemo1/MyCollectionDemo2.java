@@ -42,7 +42,9 @@ public class MyCollectionDemo2 {
     private static void method4(Collection<String> collection) {
         // boolean contains(E e) 判断集合中是否包含指定的元素
         boolean result = collection.contains("a");
+        boolean result1 = collection.contains("aaa");
         System.out.println(result);
+        System.out.println(result1);
         System.out.println("######################");
     }
 

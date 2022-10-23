@@ -19,7 +19,7 @@ public class MyCollectionDemo4 {
             String s = list.get(i);
             if("b".equals(s)){
                 list.remove(i);
-                i--;
+//                i--;
             }
         }
         System.out.println(list);

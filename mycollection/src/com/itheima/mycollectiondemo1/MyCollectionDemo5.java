@@ -18,6 +18,7 @@ public class MyCollectionDemo5 {
         while (it.hasNext()){
             String s = it.next();
             if("b".equals(s)){
+                // 指向谁，就删除谁
                 it.remove();
             }
         }
