@@ -1,10 +1,9 @@
 package com.itheima.mycollectiondemo1;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Iterator;
 
-public class MyCollectionDemo4 {
+public class MyCollectionDemo5 {
 
 
     public static void main(String[] args) {
@@ -15,13 +14,14 @@ public class MyCollectionDemo4 {
         list.add("c");
         list.add("d");
 
-        for (int i = 0; i < list.size(); i++) {
-            String s = list.get(i);
+        Iterator<String> it = list.iterator();
+        while (it.hasNext()){
+            String s = it.next();
             if("b".equals(s)){
-                list.remove(i);
-                i--;
+                it.remove();
             }
         }
+
         System.out.println(list);
 
     }
