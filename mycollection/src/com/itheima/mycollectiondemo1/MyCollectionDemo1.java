@@ -26,6 +26,7 @@ public class MyCollectionDemo1 {
         list2.add(1);
         list2.add(2);
         list2.add(3);
+        System.out.println(list2);
 
     }
 
