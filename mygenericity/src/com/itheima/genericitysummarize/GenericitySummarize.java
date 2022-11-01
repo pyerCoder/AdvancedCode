@@ -5,7 +5,7 @@ import java.util.Iterator;
 
 public class GenericitySummarize {
     public static void main(String[] args) {
-        ArrayList list = new ArrayList<>();
+        ArrayList list = new ArrayList();
         list.add("aaa");
         list.add("bbb");
         list.add("ccc");
