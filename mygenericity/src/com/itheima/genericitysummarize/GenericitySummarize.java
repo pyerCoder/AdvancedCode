@@ -14,7 +14,7 @@ public class GenericitySummarize {
         Iterator it = list.iterator();
         while(it.hasNext()){
             Object next = it.next();
-            // String next = (String )it.next();
+            // String next = (String) it.next();
             // int len = next.length(); // obj 无length方法，需要强转
             System.out.println(next);
         }
