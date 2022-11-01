@@ -35,6 +35,7 @@ public class MyCollectionDemo2 {
     private static void method5(Collection<String> collection) {
         // boolean isEmpty() 判断集合是否为空
         boolean result = collection.isEmpty();
+        // collection.clear();
         System.out.println(result);
         System.out.println("######################");
     }
@@ -42,9 +43,9 @@ public class MyCollectionDemo2 {
     private static void method4(Collection<String> collection) {
         // boolean contains(E e) 判断集合中是否包含指定的元素
         boolean result = collection.contains("a");
-        boolean result1 = collection.contains("aaa");
+        boolean result2 = collection.contains("aaa");
         System.out.println(result);
-        System.out.println(result1);
+        System.out.println(result2);
         System.out.println("######################");
     }
 
@@ -58,7 +59,7 @@ public class MyCollectionDemo2 {
 
     private static void method2(Collection<String> collection) {
         // boolean removeIf(Object o) 根据条件进行删除
-        // removeif 底层会遍历集合，得到集合中的每一个元素
+        // removeIf 底层会遍历集合，得到集合中的每一个元素
         // s依次表示集合中的每一个元素
         // 就会把这每一个元素都到lambda表达式中去判断一下
         // 如果返回的是true，则删除
