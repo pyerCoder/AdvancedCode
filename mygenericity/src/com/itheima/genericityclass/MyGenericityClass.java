@@ -2,7 +2,7 @@ package com.itheima.genericityclass;
 
 public class MyGenericityClass {
     public static void main(String[] args) {
-        Box<String > box1 = new Box<>();
+        Box<String> box1 = new Box<>();
         box1.setElement("给小丽的土味情话");
 
         String element1 = box1.getElement();
