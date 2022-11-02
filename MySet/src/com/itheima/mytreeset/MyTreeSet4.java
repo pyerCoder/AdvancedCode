@@ -11,7 +11,10 @@ public class MyTreeSet4 {
             public int compare(Teacher o1, Teacher o2) {
                 // o1 表示现在要存入的那个元素
                 // o2 表示已经存入到集合中的元素
+
+                // 主要条件
                 int result = o1.getAge() - o2.getAge();
+                // 次要条件
                 result = result == 0 ? o1.getName().compareTo(o2.getName()) : result;
                 return result;
             }
