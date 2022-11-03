@@ -31,6 +31,7 @@ public class Test3 {
                         Integer count = hm.get(fileEndName);
                         // 这种文件又出现了一次
                         count++;
+                        // 把已经出现的次数给覆盖掉
                         hm.put(fileEndName,count);
                     }else{
                         // 不存在
