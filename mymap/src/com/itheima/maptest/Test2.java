@@ -30,7 +30,7 @@ public class Test2 {
         // System.out.println(tm);
 
         tm.forEach((Character key,Integer value)->{
-            System.out.println(key + "------------------->" + value);
+            System.out.print(key + "("+ value + ")");
                 }
         );
 
