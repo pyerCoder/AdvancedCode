@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExceptionModule/ExceptionModule.iml" filepath="$PROJECT_DIR$/ExceptionModule/ExceptionModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyInteger/MyInteger.iml" filepath="$PROJECT_DIR$/MyInteger/MyInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/MySet/MySet.iml" filepath="$PROJECT_DIR$/MySet/MySet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytestream/bytestream.iml" filepath="$PROJECT_DIR$/bytestream/bytestream.iml" />
       <module fileurl="file://$PROJECT_DIR$/filemodule/filemodule.iml" filepath="$PROJECT_DIR$/filemodule/filemodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager-extends/itheima-edu-info-manager-extends.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager-extends/itheima-edu-info-manager-extends.iml" />
