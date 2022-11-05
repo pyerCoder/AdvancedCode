@@ -22,7 +22,8 @@ public class User implements Serializable {
     private static final long serialVersionUID = 1L;
 
     private String username;
-    private transient String password;
+//    private  String password;
+     private transient String password;
 
     public User() {
     }

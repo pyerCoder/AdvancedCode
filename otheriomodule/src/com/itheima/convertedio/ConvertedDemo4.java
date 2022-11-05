@@ -8,7 +8,7 @@ public class ConvertedDemo4 {
 
         User o = (User) ois.readObject();
         System.out.println(o.getPassword());
-        System.out.println(o);
+        System.out.println(o); // password = 'null' 和视频不符，怎么处理？
         ois.close();
 
     }
