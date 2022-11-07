@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/myquicksort/myquicksort.iml" filepath="$PROJECT_DIR$/myquicksort/myquicksort.iml" />
       <module fileurl="file://$PROJECT_DIR$/mystream/mystream.iml" filepath="$PROJECT_DIR$/mystream/mystream.iml" />
       <module fileurl="file://$PROJECT_DIR$/mysystem/mysystem.iml" filepath="$PROJECT_DIR$/mysystem/mysystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mythreadpool/mythreadpool.iml" filepath="$PROJECT_DIR$/mythreadpool/mythreadpool.iml" />
       <module fileurl="file://$PROJECT_DIR$/otheriomodule/otheriomodule.iml" filepath="$PROJECT_DIR$/otheriomodule/otheriomodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/socketmodule/socketmodule.iml" filepath="$PROJECT_DIR$/socketmodule/socketmodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/stage01-home-work/stage01-home-work.iml" filepath="$PROJECT_DIR$/stage01-home-work/stage01-home-work.iml" />
