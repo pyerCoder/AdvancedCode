@@ -7,7 +7,7 @@ public class Desk {
     public static boolean flag = false;
 
     // 汉堡包的总数量
-    public static int count = 100;
+    public static int count = 10;
 
     // 锁对象
     public static final Object Lock = new Object();
