@@ -41,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/test-polymorphic/test-polymorphic.iml" filepath="$PROJECT_DIR$/test-polymorphic/test-polymorphic.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-static/test-static.iml" filepath="$PROJECT_DIR$/test-static/test-static.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadmodule/threadmodule/threadmodule.iml" filepath="$PROJECT_DIR$/threadmodule/threadmodule/threadmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadupgrades/threadupgrades.iml" filepath="$PROJECT_DIR$/threadupgrades/threadupgrades.iml" />
     </modules>
   </component>
 </project>
