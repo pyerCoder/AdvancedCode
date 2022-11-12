@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/mygenericity/mygenericity.iml" filepath="$PROJECT_DIR$/mygenericity/mygenericity.iml" />
       <module fileurl="file://$PROJECT_DIR$/mymap/mymap.iml" filepath="$PROJECT_DIR$/mymap/mymap.iml" />
       <module fileurl="file://$PROJECT_DIR$/mymath/mymath.iml" filepath="$PROJECT_DIR$/mymath/mymath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mynio/mynio.iml" filepath="$PROJECT_DIR$/mynio/mynio.iml" />
       <module fileurl="file://$PROJECT_DIR$/myobject/myobject.iml" filepath="$PROJECT_DIR$/myobject/myobject.iml" />
       <module fileurl="file://$PROJECT_DIR$/myparameter/myparameter.iml" filepath="$PROJECT_DIR$/myparameter/myparameter.iml" />
       <module fileurl="file://$PROJECT_DIR$/myquicksort/myquicksort.iml" filepath="$PROJECT_DIR$/myquicksort/myquicksort.iml" />
@@ -32,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/mythreadatom/mythreadatom.iml" filepath="$PROJECT_DIR$/mythreadatom/mythreadatom.iml" />
       <module fileurl="file://$PROJECT_DIR$/mythreadpool/mythreadpool.iml" filepath="$PROJECT_DIR$/mythreadpool/mythreadpool.iml" />
       <module fileurl="file://$PROJECT_DIR$/myvolatile/myvolatile.iml" filepath="$PROJECT_DIR$/myvolatile/myvolatile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optimizeserver/optimizeserver.iml" filepath="$PROJECT_DIR$/optimizeserver/optimizeserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/otheriomodule/otheriomodule.iml" filepath="$PROJECT_DIR$/otheriomodule/otheriomodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/socketmodule/socketmodule.iml" filepath="$PROJECT_DIR$/socketmodule/socketmodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/stage01-home-work/stage01-home-work.iml" filepath="$PROJECT_DIR$/stage01-home-work/stage01-home-work.iml" />
